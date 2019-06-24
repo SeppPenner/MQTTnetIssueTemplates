@@ -1,6 +1,13 @@
 ### Describe the bug
 A clear and concise description of what the bug is.
 
+### Which project is your bug related to?
+- [x] Client
+- [ ] ManagedClient
+- [ ] MQTTnet.Server standalone
+- [ ] Server
+- [ ] Generic
+
 ### To Reproduce
 Steps to reproduce the behavior:
 1. Using this version of MQTTnet '...'.
@@ -18,5 +25,5 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 Include debugging or logging information here:
 
-```csharp
+```batch
 ```
