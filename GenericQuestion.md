@@ -1,8 +1,9 @@
-### Which project is your question related to?
+### Which project is your bug related to?
 - [x] Client
 - [ ] ManagedClient
 - [ ] MQTTnet.Server standalone
 - [ ] Server
+- [ ] Generic
 
 ### Describe your question
 A clear and concise description of what you want to know.
